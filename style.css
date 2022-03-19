@@ -65,11 +65,18 @@ body {
 .info {
     display: flex;
     justify-content: space-around;
-    gap: 10px;
+    gap: 20px;
     padding: 0 150px;
+    flex-wrap: wrap;
 }
 .card, .card img {
-    width: 200px;
+    width: 12em;
+}
+.card img {
+    height: 14em;
+    border: 2.5px solid #3882F6;
+    border-radius: 8px;
+    object-fit: cover;
 }
 
 /* body: quote */
@@ -118,6 +125,8 @@ body {
     text-align: center;
     color: white;
 }
+
+@me
 
 
 
