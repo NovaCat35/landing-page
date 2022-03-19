@@ -31,7 +31,6 @@ body {
 /* Header: content */
 .content {
     display: flex;
-    gap: 10px;
     justify-content: space-between;
 }
 .content h1 {
@@ -42,13 +41,15 @@ body {
 .content p {
     margin: 10px 0 15px;;
 }
-
 .content button {
     background-color: #3882F6;
     color: white;
     padding: 8px 30px;
     border-radius: 7px;
     border: none;
+}
+.description {
+    margin-right: 30px;
 }
 .image img {
     width: 350px;
@@ -70,7 +71,7 @@ body {
     flex-wrap: wrap;
 }
 .card, .card img {
-    width: 12em;
+    width: 13em;
 }
 .card img {
     height: 14em;
@@ -126,7 +127,15 @@ body {
     color: white;
 }
 
-@me
+@media screen and (max-width: 1027px) {
+    .content{
+        flex-wrap: wrap;
+    }
+    .description {
+        margin-bottom: 15px;
 
-
-
+    }
+    .content button {
+        justify-self: center;
+    }
+}
