@@ -9,9 +9,10 @@ body {
     color: white;
 }
 
-.header-link, .content p {
+.header-link a, .content p {
     font-size: 18px;
     color: #E5E7EB;
+    text-decoration: none;
 }
 
 /* Header: Navigation */
