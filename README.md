@@ -1,5 +1,8 @@
 # landing-page
-Images/Art made by ~
+
+What a journey this has been. I lost count of the countless times I wandered along the css maze but totally worth it in the end! Many credits to the Odin Project for providing the tools I need to tackle this path and others in the future.
+
+Images/Art featured in the webpage ~
 
 Artist: avogado6
 Hand-warmer From: https://www.avogado6.com/?lightbox=dataItem-kz8fzg8518
