@@ -9,31 +9,38 @@ body {
     color: white;
 }
 
-.header-link a, .content p {
+/* Navigation */
+.nav {
+    background-color: #1F2937;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.nav-link a, .content p {
     font-size: 18px;
     color: #E5E7EB;
+}
+.nav-link a {
     text-decoration: none;
 }
-
-/* Header: Navigation */
-.nav {
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 80px;
-}
-.header-link {
+.nav-link {
     display: flex;
     gap: 16px;
     list-style: none;
     margin: 0;
     padding: 0;
 }
+
 .logo {
     font-size: 24px;
     color: #F9FAF8;
 }
 /* Header: content */
 .content {
+    margin-top: 9em;
     display: flex;
     justify-content: space-between;
 }
@@ -190,7 +197,7 @@ body {
 
 @media screen and (max-width: 820px){
     /* Make hamburger tab */
-    .header-link {
+    .nav-link {
         
     }
 }
