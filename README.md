@@ -1,6 +1,7 @@
 # landing-page
 
-What a journey this has been! I lost count of the countless times I wandered along the css maze...walking into dead-ends and star-gazing aimlessly *shudder* Many thanks to the Odin Project for providing the tools I need to tackle this path and others in the future.
+What a journey this has been! I lost count of the countless times I wandered along the css maze...walking into dead-ends and star-gazing aimlessly ***shudder*** 
+Many thanks to the Odin Project for providing the tools I need to tackle this path and others in the future.
 
 
 https://novacat35.github.io/landing-page/
