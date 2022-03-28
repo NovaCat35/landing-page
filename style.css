@@ -14,6 +14,10 @@ body {
 }
 
 /* Navigation */
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
 .nav {
     display: flex;
     align-items: center;
@@ -39,7 +43,8 @@ body {
     text-decoration: none;
     padding: 0 10px; 
 }
-.nav-link a:after {
+/* link underline hover effect */
+.nav-link a:after { 
     content: "";
     position: absolute;
     background-image: linear-gradient(to right, rgb(0, 238, 255), rgb(0, 174, 255), rgb(0, 77, 150));
@@ -53,21 +58,25 @@ body {
     color: #ffffff;
     width: 100%;
 }
-.logo {
-    font-size: 24px;
-    color: #F9FAF8;
-}
 
 /* Header: content */
 .header {
     padding: 10px 200px 80px;
     background-color: #1F2937;
+    background-image: url("images/sheepfield.gif");
+    background-size: cover;
+    background-position-y: center;
     color: white;
 }
 .content {
+    padding: 5em;
+    /* background-color: #1F2937; */
+    background-color: rgb(31, 41, 55, 0.85);
+    border-radius: 30px;
     margin-top: 5em;
     display: flex;
     justify-content: space-between;
+    z-index: 1;
 }
 .content h1 {
     font-size: 60px;
@@ -92,6 +101,8 @@ body {
 }
 .image img {
     width: 350px;
+    border-radius: 10px;
+    opacity: 1.0;
 }
 
 /* body: header */
