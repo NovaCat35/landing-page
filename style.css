@@ -21,11 +21,11 @@ body {
 .nav {
     display: flex;
     align-items: center;
-    padding: 30px;
+    padding: 25px;
     width: 100vw;
     position: sticky;
     top: 0;
-    background-color: #2e3e55;
+    background-color: #1c283a;
 }
 .nav-link {
     display: flex;
@@ -102,7 +102,6 @@ body {
 .image img {
     width: 350px;
     border-radius: 10px;
-    opacity: 1.0;
 }
 
 /* body: header */
@@ -240,7 +239,21 @@ body {
     }
 }
 
-@media screen and (max-width: 820px){
-    /* Make hamburger tab */
+@media screen and (max-width: 650px){
+    /* Make hamburger tab ...414px*/
+    .header {
+       padding: 2em;
+    }
+    .content {
+        display: flex;
+    }
+    .description h1 {
+        font-size: 3em;
+    }
+    .content .image img {
+        order: 1;
+        width: 310px;
+        border-radius: 10px;
+    }
 
 }
