@@ -9,7 +9,7 @@ ____________________________________
 Images/Art featured in the webpage ~
 
 Artist: avogado6
-Hand-warmer From: https://www.avogado6.com/?lightbox=dataItem-kz8fzg8518
+Hand-warmer From: https://www.avogado6.com/?lightbox=dataItem-kz8fzg8518 <br/>
 Escapism From: https://www.avogado6.com/diary2019 lightbox=dataItem-k4wtpweo3
 
 Artist: Cheryl 🍡
