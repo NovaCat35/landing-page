@@ -160,7 +160,7 @@ body {
 .signup {
     padding: 40px;
     border-radius: 8px;
-    background-color: #3882F6;
+    background-color: #35619b;
     color: #E5E7EB;
     display: flex;
     justify-content: space-around;
@@ -176,13 +176,20 @@ body {
     flex-direction: column;
     gap: 10px;
 }
-.signup button {
-    background-color: #3882F6;
+.signup a {
+    text-align: center;
+    text-decoration: none;
+    background-color: #35619b;
     font-size: 16px;
     padding: 8px 30px;
     color: white;
     border-radius: 7px;
     border: solid white;
+    transition: all .5s ease;
+}
+.signup a:hover {
+    box-shadow: 0 0 15px 2px rgb(227, 216, 216);
+    background-color: #23426b;
 }
 
 /* footer */
@@ -258,7 +265,7 @@ body {
     .signup .bottonContainer {
         margin-top: 2em;
     }
-    .signup button {
+    .signup a {
         /* margin-top: 2em; */
         align-self: center;
         height: 2em;
