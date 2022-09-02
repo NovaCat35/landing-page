@@ -55,7 +55,6 @@ body {
     transition: 0.25s ease-out;
 }
 .nav-link a:hover:after{
-    color: #ffffff;
     width: 100%;
 }
 
@@ -85,8 +84,8 @@ body {
     margin: 0;
 }
 .content p {
-    font-size: 18px;
-    color: #E5E7EB;
+    font-size: 18.5px;
+    color: #e8eaee;
     margin: 10px 0 15px;;
 }
 .content button {
@@ -99,6 +98,10 @@ body {
 }
 .description {
     margin-right: 30px;
+}
+.description p {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 25px;
 }
 .image img {
     width: 350px;
@@ -125,6 +128,7 @@ body {
     width: 14em;
 }
 .card p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     margin: 16px 0;
 }
@@ -161,9 +165,16 @@ body {
     display: flex;
     justify-content: space-around;
 }
+.signup p {
+    margin-top: .5em;
+}
 .signup h2 {
     color: white;
-    margin: 0;
+}
+.signup .bottonContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 .signup button {
     background-color: #3882F6;
@@ -241,8 +252,14 @@ body {
         text-align: center;
         font-size: 1em;
     }
-    .signup button {
+    .signup .text p {
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .signup .bottonContainer {
         margin-top: 2em;
+    }
+    .signup button {
+        /* margin-top: 2em; */
         align-self: center;
         height: 2em;
         width: 10em;
