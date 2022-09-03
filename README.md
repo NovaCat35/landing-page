@@ -18,6 +18,14 @@ birdhouse From: https://twitter.com/cysketch/status/1261296599688306688
 Artist: Carles Dalmau
 area51, alien-friend From: https://artwoonz.com/digital-artist-carles-dalmau/
 
+Artist: VeniceLatte
+FMA catastrophe From: https://www.deviantart.com/venicelatte/art/FMA-catastrophe-470677324
+
 ____________________________________
 
+Future Practices to website?
+- Add music?
+- How to fix background to seperate containers so when you scroll, the background is fix instead of scrolling along with the contents (i.e. https://criosyom.github.io/Hakurei_Shrine/#)
+- More Responsive? (using grid or other methods)
+- Add Hamburger tab
 
