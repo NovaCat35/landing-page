@@ -8,20 +8,20 @@ https://novacat35.github.io/landing-page/
 ____________________________________
 ### Images/Art featured in the webpage ~
 
-Artist: avogado6
-Hand-warmer From: https://www.avogado6.com/?lightbox=dataItem-kz8fzg8518 <br/>
+Artist: avogado6 <br>
+Hand-warmer From: https://www.avogado6.com/?lightbox=dataItem-kz8fzg8518 <br>
 Escapism From: https://www.avogado6.com/diary2019 lightbox=dataItem-k4wtpweo3
 
-Artist: Cheryl 🍡
+Artist: Cheryl 🍡 <br>
 birdhouse From: https://twitter.com/cysketch/status/1261296599688306688
 
-Artist: Carles Dalmau
+Artist: Carles Dalmau <br>
 area51, alien-friend From: https://artwoonz.com/digital-artist-carles-dalmau/
 
-Artist: VeniceLatte
+Artist: VeniceLatte <br>
 FMA catastrophe From: https://www.deviantart.com/venicelatte/art/FMA-catastrophe-470677324
 
-Artist: Lukasz Buda
+Artist: Lukasz Buda <br>
 Sheep field: https://lukasz-buda.tumblr.com/post/168424345408/sheep-fighting-against-the-storm-to-get-home
 
 ____________________________________
