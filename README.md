@@ -21,6 +21,9 @@ area51, alien-friend From: https://artwoonz.com/digital-artist-carles-dalmau/
 Artist: VeniceLatte
 FMA catastrophe From: https://www.deviantart.com/venicelatte/art/FMA-catastrophe-470677324
 
+Artist: Lukasz Buda
+Sheep field: https://lukasz-buda.tumblr.com/post/168424345408/sheep-fighting-against-the-storm-to-get-home
+
 ____________________________________
 
 <em>Future Practices to website?</em>
