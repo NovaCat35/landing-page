@@ -1,4 +1,4 @@
-# landing-page
+# Landing-Page
 
 What a journey this has been! This landing project is a place for me to explore my own understanding of the craft and my ability in the fundamentals of web development. Many thanks to the Odin Project for providing the tools I need to tackle this path and others in the future.
 
@@ -6,7 +6,7 @@ What a journey this has been! This landing project is a place for me to explore 
 https://novacat35.github.io/landing-page/
 
 ____________________________________
-Images/Art featured in the webpage ~
+### Images/Art featured in the webpage ~
 
 Artist: avogado6
 Hand-warmer From: https://www.avogado6.com/?lightbox=dataItem-kz8fzg8518 <br/>
@@ -23,7 +23,7 @@ FMA catastrophe From: https://www.deviantart.com/venicelatte/art/FMA-catastrophe
 
 ____________________________________
 
-Future Practices to website?
+<em>Future Practices to website?</em>
 - Add music?
 - How to fix background to seperate containers so when you scroll, the background is fix instead of scrolling along with the contents (i.e. https://criosyom.github.io/Hakurei_Shrine/#)
 - More Responsive? (using grid or other methods)
