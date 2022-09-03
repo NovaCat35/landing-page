@@ -172,19 +172,21 @@ body {
     display: flex;
     justify-content: space-around;
 }
-.signup p {
+.signup .text p {
     margin-top: .5em;
 }
 .signup h2 {
     color: white;
 }
-.signup .bottonContainer {
+.signup .buttonContainer {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 .signup a {
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     text-decoration: none;
     background-color: #35619b;
     font-size: 16px;
@@ -193,6 +195,12 @@ body {
     border-radius: 7px;
     border: solid white;
     transition: all .5s ease;
+}
+.signup img {
+    height: 1.5em;
+}
+.signup #pinterest {
+    margin-right: 5px;
 }
 .signup a:hover {
     box-shadow: 0 0 15px 2px rgb(227, 216, 216);
@@ -269,7 +277,7 @@ body {
     .signup .text p {
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
     }
-    .signup .bottonContainer {
+    .signup .buttonContainer {
         margin-top: 2em;
     }
     .signup a {
@@ -294,5 +302,10 @@ body {
     .image img {
         width: 310px;
         border-radius: 10px;
+    }
+}
+@media screen and (max-width: 400px){
+    .nav-link {
+        gap: 0px;
     }
 }
