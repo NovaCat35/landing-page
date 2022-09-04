@@ -105,6 +105,12 @@ body {
     border-radius: 7px;
     border: none;
 }
+.content button:hover {
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1.5px 5px rgb(27, 52, 88);
+    background-color: #0f7ca2;
+    box-shadow: 0px 0px 10px 1px rgb(161, 194, 227);
+}
 .description {
     margin-right: 30px;
 }
@@ -134,7 +140,7 @@ body {
     flex-wrap: wrap;
 }
 .card, .card img {
-    width: 14em;
+    width: 15em;
 }
 .card p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -142,8 +148,8 @@ body {
     margin: 16px 0;
 }
 .card img {
-    height: 14em;
-    border: 2.5px solid #3882F6;
+    height: 15em;
+    border: 4.5px solid #014b92;
     border-radius: 8px;
     object-fit: cover;
 }
