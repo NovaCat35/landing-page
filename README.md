@@ -25,7 +25,7 @@ Artist: Lukasz Buda <br>
 Sheep field: https://lukasz-buda.tumblr.com/post/168424345408/sheep-fighting-against-the-storm-to-get-home
 
 Artist: Genshin Impact <br>
-Sumeru concept art
+Sumeru concept art: https://genshin.hoyoverse.com/en/news/detail/22410
 
 ____________________________________
 
