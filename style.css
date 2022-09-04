@@ -13,10 +13,11 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-/* Navigation */
+/* NAVIGATION */
 .logo {
     height: 4em;
     width: 4em;
+    border: 1px solid #E5E7EB;
     border-radius: 50%;
     overflow: hidden;
     margin: -15px;
@@ -32,7 +33,7 @@ body {
     width: 100vw;
     position: sticky;
     top: 0;
-    background-color: #1c283a;
+    background-image: linear-gradient(to right, rgb(31 41 55), rgb(22 45 70), rgb(0, 77, 150));
 }
 .nav-link {
     display: flex;
@@ -45,6 +46,7 @@ body {
 .nav-link a {
     display: inline-block;
     font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #E5E7EB;
     position: relative;
     text-decoration: none;
@@ -65,7 +67,7 @@ body {
     width: 100%;
 }
 
-/* Header: content */
+/* HEADER: content */
 .header {
     padding: 10px 200px 80px;
     background-color: #1F2937;
@@ -115,7 +117,7 @@ body {
     border-radius: 10px;
 }
 
-/* body: header */
+/* BODY: header */
 .body h1 {
     margin: 30px;
     text-align: center;
@@ -123,7 +125,7 @@ body {
     font-weight: 900;
     color: #1F2937;
 }
-/* body: content */
+/* BODY: content */
 .info {
     display: flex;
     justify-content: space-around;
@@ -146,21 +148,27 @@ body {
     object-fit: cover;
 }
 
-/* body: quote */
-.quote {
+/* BODY: quote section*/
+.quoteContainer {
     padding: 120px;
-    background-color: #E5E7EB;
+    background-image: url(images/genshin-sumeru.jpg);
+    background-attachment: fixed;
     font-size: 36px;
     font-style: italic;
     font-weight: 300;
 }
-.quote p {
+.quote {
+    color: white;
+    text-shadow: 2px 3px 3px black;
+    /* backdrop-filter: blur(10px); */
+}
+.quoteContainer p {
     text-align: right;
     font-size: 20px;
     font-weight: 700;
 }
 
-/* body: action signup */
+/* BODY: signup section*/
 .actionBox {
     padding: 80px 120px;
 }
@@ -252,10 +260,10 @@ body {
         justify-content: center;
     }
     /* BODY */
-    .quote {
+    .quoteContainer {
         padding: 2em;
     }
-    .quote .text {
+    .quoteContainer .text {
         font-size: 25px;
     }
     /* BODY: action-signup */
@@ -307,5 +315,8 @@ body {
 @media screen and (max-width: 400px){
     .nav-link {
         gap: 0px;
+    }
+    .nav-link a {
+        padding: 0 7px;
     }
 }

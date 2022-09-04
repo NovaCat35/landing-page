@@ -28,7 +28,7 @@ ____________________________________
 
 <em>Future Practices to website?</em>
 - Add music?
-- How to fix background to seperate containers so when you scroll, the background is fix instead of scrolling along with the contents (i.e. https://criosyom.github.io/Hakurei_Shrine/#)
 - More Responsive? (using grid or other methods)
 - Add Hamburger tab
+- Add other projects to page?
 
