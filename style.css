@@ -20,7 +20,7 @@ body {
     border: 1px solid #E5E7EB;
     border-radius: 50%;
     overflow: hidden;
-    margin: -15px;
+    /* margin: -15px; */
 }
 .logo img {
     height: 33em;
@@ -104,6 +104,7 @@ body {
     padding: 15px 30px;
     border-radius: 7px;
     border: none;
+    transition: all .4s ease;
 }
 .content button:hover {
     color: rgb(255, 255, 255);
@@ -318,6 +319,10 @@ body {
     .image img {
         width: 310px;
         border-radius: 10px;
+    }
+    /* disable backgroundAttachment for mobile devices */
+    .quoteContainer {
+        background-attachment: scroll;
     }
 }
 @media screen and (max-width: 400px){
