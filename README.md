@@ -1,6 +1,6 @@
 # Landing-Page
 
-What a journey this has been! This landing project is a place for me to explore my own understanding of the craft and my ability in the fundamentals of web development. Many thanks to the Odin Project for providing the tools I need to tackle this path and others in the future.
+What a journey this has been! This landing project is a place for me to explore my own understanding of the craft and my ability in the fundamentals of web development. I added to this project throughout many months(and breaks) as I learned new things along the way. Many thanks to the Odin Project for providing the tools I need to tackle this path and others in the future.
 
 
 https://novacat35.github.io/landing-page/
