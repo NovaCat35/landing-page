@@ -5,6 +5,8 @@ What a journey this has been! This landing project is a place for me to explore 
 
 https://novacat35.github.io/landing-page/
 
+<img width="1081" alt="Screenshot 2023-03-18 at 7 12 23 PM" src="https://user-images.githubusercontent.com/54908064/226144884-2a1a381d-efab-40e8-b509-9533ab94fce3.png">
+
 ____________________________________
 ### Images/Art featured in the webpage ~
 
